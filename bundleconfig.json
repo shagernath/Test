@@ -1,0 +1,26 @@
+[
+  {
+    "outputFileName": "Scripts/360.js",
+    "inputFiles": [
+      "Scripts/360.js"
+    ]
+  },
+  {
+    "outputFileName": "Content/grid.css",
+    "inputFiles": [
+      "Content/grid.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/Pagination.css",
+    "inputFiles": [
+      "Content/Pagination.css"
+    ]
+  },
+  {
+    "outputFileName": "assets/global/css/components.css",
+    "inputFiles": [
+      "assets/global/css/components.css"
+    ]
+  }
+]
